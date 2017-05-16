@@ -1,0 +1,11 @@
+{
+  "name": "sound-test",
+  "version": "0.0.1",
+  "description": "Calliope mini Sound Test",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "calliope-mini/microbit#v2.0.0-rc8-calliope-1.0.2"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}

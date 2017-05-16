@@ -1,0 +1,8 @@
+#ifndef CALLOPE_SOUND_TEST_H
+#define CALLOPE_SOUND_TEST_H
+
+#ifdef YOTTA_CFG_COMPILE_MASTER
+#define COMPILE_FIRMWARE_MASTER 0
+#endif
+
+#endif
